@@ -9,6 +9,12 @@
             "request": "launch",
             "type": "dart",
             "program": "main.dart"
+        },
+        {
+            "name": "Run main2.dart",
+            "request": "launch",
+            "type": "dart",
+            "program": "main2.dart"
         }
     ]
 }
